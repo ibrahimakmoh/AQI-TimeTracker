@@ -1,1 +1,21 @@
-{"name": "AQI Tracker", "start_url": "index.html"}
+{
+  "name": "AQI Time Tracker",
+  "short_name": "AQI Tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1B447E",
+  "description": "Track teaching hours privately for Al-Noor Quranic Institute",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
